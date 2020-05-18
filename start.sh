@@ -1,1 +1,1 @@
-python portafolio_dm/app.py
+python app.py
